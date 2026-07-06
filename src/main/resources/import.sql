@@ -1,5 +1,5 @@
-INSERT INTO tb_user (email, password) VALUES ('jonathan@gmail.com', '$2a$10$eACCYoNOHEqXve8aIWT8Nu3PkMXWBaOxJ9aORUYzfMQCbVBIhZ8tG');
-INSERT INTO tb_user (email, password) VALUES ('bob@gmail.com', '$2a$10$eACCYoNOHEqXve8aIWT8Nu3PkMXWBaOxJ9aORUYzfMQCbVBIhZ8tG');
+INSERT INTO tb_user (email, password) VALUES ('jonathan@gmail.com', '$2a$10$B2fi6DqY66NRuGv9WfM5busUm73knfut3k4wuKNWsJMRD33FQVRqO');
+INSERT INTO tb_user (email, password) VALUES ('bob@gmail.com', '$2a$10$B2fi6DqY66NRuGv9WfM5busUm73knfut3k4wuKNWsJMRD33FQVRqO');
 
 INSERT INTO tb_role (authority) VALUES ('ROLE_ADMIN');
 INSERT INTO tb_role (authority) VALUES ('ROLE_CLIENT');
